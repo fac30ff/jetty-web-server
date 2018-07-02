@@ -1,0 +1,1 @@
+java -cp ./target/jetty-web-server-1.0-SNAPSHOT.jar:./target/deps/* Application $1
